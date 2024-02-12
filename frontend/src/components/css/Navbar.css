@@ -1,0 +1,5 @@
+@media screen and (min-width: 900px) {
+  .react-responsive-modal-modal {
+    width: 1000px;
+  }
+}

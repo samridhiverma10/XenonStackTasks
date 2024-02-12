@@ -1,0 +1,31 @@
+@media screen and (min-width: 900px) {
+  .react-responsive-modal-modal {
+    width: 1000px;
+    height: 600px;
+  }
+}
+
+@media screen and (max-width: 900px) {
+  .react-responsive-modal-modal {
+    width: 350px;
+    height: 500px;
+  }
+}
+
+.ql-editor {
+  /* overflow-y: scroll; */
+  resize: vertical;
+  min-height: 150px;
+}
+
+@media screen and (min-width: 500px) {
+  .setSize {
+    width: 700px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .setSize {
+    width: 390px;
+  }
+}
